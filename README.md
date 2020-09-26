@@ -1,4 +1,4 @@
-[![Header](https://drive.google.com/uc?export=view&id=1Yan7sL71M_QGyUJOyyUtyOzFCx0x199W "Header")](https://onlion.nu/)
+[![Header](https://raw.githubusercontent.com/jdl208/jdl208/master/banner.png "Header")](https://onlion.nu/)
 
 ### About me:
 I'm a financial controller turned developer and that was the best decision ever!
