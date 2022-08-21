@@ -6,7 +6,7 @@
 </p>
 
 ### About me:
-I'm a financial controller turned developer and that was the best decision ever!
+Hobby developer
 
 ---
 
@@ -14,7 +14,7 @@ I'm a financial controller turned developer and that was the best decision ever!
 ![](https://img.shields.io/badge/Language:-Go-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language:-Dart-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language:-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-- Dart
+- Go
 - Python
 - JavaScript
 - CSS
